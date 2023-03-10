@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
   title = "Church on Sunday"
-  text = "We meet at 9:30AM every Sunday in-person at [165 Rounds Ave. Riverside, RI 02915](https://www.openstreetmap.org/node/357264452) and on-line."
+  text = "We meet at 9:30AM every Sunday in-person at [165 Rounds Ave. Riverside, RI 02915](https://goo.gl/maps/Hdf6fGn9S6be7C1aA) and on-line."
   map_location = "Riverside Covenant Church"
 
 [feature_icons]
