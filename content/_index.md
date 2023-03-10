@@ -12,8 +12,8 @@
 #Details for the box below the banner
 [services]
   title = "Church on Sunday"
-  text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-  map_location = "Cathédrale Notre-Dame de Paris"
+  text = "We meet at 9:30AM every Sunday in-person at [165 Rounds Ave. Riverside, RI 02915](https://www.openstreetmap.org/node/357264452) and on-line."
+  map_location = "Riverside Covenant Church"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.
